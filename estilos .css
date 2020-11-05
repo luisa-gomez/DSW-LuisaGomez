@@ -1,0 +1,21 @@
+
+.titulo{
+    text-align:center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+
+.mi menu{
+    padding: 30px;
+    background-color: #005883;
+    font-size: x-large;
+}
+
+.fuenter{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.mifuente{
+    width: 80%;
+    margin: 40px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
